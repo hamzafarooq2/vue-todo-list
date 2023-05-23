@@ -1,19 +1,2 @@
-# vue-crash-course
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Repo Link: https://github.com/hamzafarooq2/vue-todo-list.git
+URL link: https://flourishing-profiterole-91da10.netlify.app/
